@@ -1,0 +1,16 @@
+commands
+ls                  - display all the files
+ls -l               - display all the files in long format
+touch               - to create a file
+mkdir               - to create a directory
+cd dir_name         - change the directory
+cd ..               - to exit the directory
+git innit           - to initialize the local repository
+git config user.name "username"      - to provide the username 
+git config user.email "email"        - to provide the email of the user
+git add file_name.extn               - to add the files to staging area
+git commit file_name.extn "mssg"     - to commit the staged files into the local repository
+git remote -v                        - to get remote repo url
+git remote add "alias" repo_url      - to add repository link
+git push "alias" branch_name         - to push data from local repo to remote repo 
+ 
