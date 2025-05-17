@@ -1,0 +1,23 @@
+Name : Diya Vincent T
+
+Email: diyavincent@gmail.com
+
+Ph no:9365225412
+
+Education:
+	SSLC   - NET Public School
+	PU     - Vijaya Composite PU College
+	Degree - B.E.(CSE) - ACS College of engineering
+
+Skills:
+	Java
+	SQL
+	HTML
+	CSS
+	Javascript
+	Python
+
+
+Hobbies:
+	Drawing
+	Playing badminton
